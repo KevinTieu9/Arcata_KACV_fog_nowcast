@@ -1,6 +1,6 @@
 /*
  * kacv.h
- * CS 375 — Project 3 Arcata KACV fog nowcast
+ * CS 375 — Project 3 - Arcata KACV fog nowcast
  *
  * Author: Kevin Tieu
  *
