@@ -42,8 +42,8 @@ def main():
         print("pci=")
         print(lspci_text.strip())
     else:
-        print("pci=unavailable_here_run_on_the_NUC")
-    print("note=Arc_A550M_is_Intel_not_NVIDIA")
+        print("pci=unavailable_here_run_on_the_laptop")
+    print("note=Ryzen_7_8745HS_Radeon_780M_is_AMD_not_NVIDIA")
     print("note=install_CPU_torch_first")
 
 
